@@ -1,2 +1,2 @@
-# AgencyApp
-Website for Digital Agencies
+# AgencyWebsite
+A Simple Agency website to showcase services
